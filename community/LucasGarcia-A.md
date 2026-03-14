@@ -19,5 +19,5 @@
 
 ### 🚀 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGarcia-A&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGarcia-A&layout=compact&show_icons=true&theme=dracula)
 
